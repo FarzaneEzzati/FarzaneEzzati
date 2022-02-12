@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I hold my MSc degree in Industrial Engineering from Sharif Uni. of Tech.
 <!--
 **FarzaneEzzati/FarzaneEzzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
