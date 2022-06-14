@@ -1,7 +1,7 @@
 ### Hi Friends 👋
 I have studied Industrial Engineering at **Sharif Uni. of Tech.** (MSc) and **AmirKabir Uni. of Tech.** (BSc), Tehran, Iran.
 
-Working on a variety of IE fields of research sounds amazing to me. However, my interests are the applications of data-driven optimizarion in healthcare and logistics. 
+Working on a variety of IE fields of research sounds amazing to me. However, my interest is mostly the applications of data-driven optimizarion in healthcare and logistics. 
 
 - 🌱 I’m learning GA, ACO
 - 👯 I welcome any chance to collaborate in researches related to my interests
