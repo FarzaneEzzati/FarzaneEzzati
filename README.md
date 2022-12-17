@@ -3,7 +3,7 @@ I have studied Industrial Engineering at **Sharif Uni. of Tech.** (MSc) and **Am
 
 Working on a variety of IE fields of research sounds amazing to me. However, my interest is mostly the applications of data-driven optimizarion in healthcare and logistics. 
 
-- 🌱 I’m learning GA, ACO
+- 🌱 Never stop learning
 - 👯 I welcome any chance to collaborate in researches related to my interests
 - 📫 Reach me: ezzati.f.111@gmail.com
 - ♥  I'm madly in LOVE with hiking, dancing, and jogging in the nature 
