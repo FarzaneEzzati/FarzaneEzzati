@@ -1,13 +1,13 @@
 ### Hello👋
-I have studied Industrial Engineering at **Sharif Uni. of Tech.** (MSc) and **AmirKabir Uni. of Tech.** (BSc), Tehran, Iran.
+I am currently a PhD studnt at University of Houston, majoring in Industrial Engineering and Operations Research.
+I am passionate about modeling and solving complex operations research problems. Machine Learning and Deep Learning are also my favorite topics which I use frequently in my research projects.
 
-Working on a variety of IE fields of research sounds amazing to me. However, my interest is mostly the applications of data-driven optimizarion in healthcare and energy. 
-
-- 🌱 Never stop learning
-- 👯 I welcome any chance to collaborate in research related to my interests
-- 📫 Reach me: fezzati@uh.edu
-- ♥  I'm madly in LOVE with hiking, dancing, and jogging in the nature 
-- 😊 You can call me Feri... I like it!
+These help you to know me better:
+- ☕ Coffee makes me human in the morning
+- 👩🏻‍💻 Commitment to my role is my most prominent characterisitc
+- ❕ I am neither an introvert nor extrovert, I am ambivert
+- 🧢 I beleive everyone should have a routine activity outside work, for me is street dancing
+- 🥾 Kinking is my favorite hobby, of curse hiking in mountains covered in snow
 
 
 <!--
