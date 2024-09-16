@@ -7,7 +7,7 @@ These help you to know me better:
 - 👩🏻‍💻 Commitment to my role is my most prominent characterisitc
 - ❕ I am neither an introvert nor extrovert, I am ambivert
 - 🧢 I beleive everyone should have a routine activity outside work, for me is street dancing
-- 🥾 Kinking is my favorite hobby, of curse hiking in mountains covered in snow
+- 🥾 Hiking is my favorite hobby, of course hiking in mountains covered in snow
 
 
 <!--
